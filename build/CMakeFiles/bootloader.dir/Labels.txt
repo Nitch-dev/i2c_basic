@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/CMakeFiles/bootloader
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/CMakeFiles/bootloader.rule
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/CMakeFiles/bootloader-complete.rule
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

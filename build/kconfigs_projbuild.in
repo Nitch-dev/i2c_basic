@@ -1,0 +1,7 @@
+source "H:/esp/v5.5.1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "H:/esp/v5.5.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "H:/esp/v5.5.1/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "H:/esp/v5.5.1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "H:/esp/v5.5.1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/main/Kconfig.projbuild"
+source "H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/components/ssd1306/Kconfig.projbuild"

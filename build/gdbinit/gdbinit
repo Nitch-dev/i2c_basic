@@ -1,0 +1,2 @@
+source H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/gdbinit/symbols
+source H:/ESPIDF_Projects/simpleI2cDemo/i2c_basic/build/gdbinit/connect

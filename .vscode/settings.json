@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "h:\\esp\\v5.5.1\\esp-idf",
+  "idf.toolsPathWin": "h:\\.espressif",
+  "idf.pythonInstallPath": "h:\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM3",
+  "files.associations": {
+    "esp_system.h": "c",
+    "nvs_flash.h": "c",
+    "ssd1306.h": "c",
+    "gpio.h": "c"
+  }
+}
